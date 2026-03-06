@@ -1,7 +1,7 @@
 # 🛰️ Object Detection in Optical Remote Sensing Images  
 **Faster R-CNN with Transfer Learning, Data Augmentation, and Performance Analysis**
 
-![Detection Example](Car Detection – Remote Sensing Image.png)
+![Detection Example](Car-Detection-Remote-Sensing-Image.png)
 
 This repository contains a **notebook-based implementation** for multi-class object detection in optical remote sensing images.  
 The project focuses on training and evaluating a **Faster R-CNN (ResNet-50 FPN)** model using **transfer learning**, **data augmentation**, and **detailed performance analysis**.
