@@ -1,5 +1,5 @@
 # 🛰️ Object Detection in Optical Remote Sensing Images  
-**Faster R-CNN with Transfer Learning, Data Augmentation, and Performance Analysis**
+
 
 <p align="center">
   <img src="Car-Detection-Remote-Sensing-Image.png" width="500">
