@@ -2,7 +2,7 @@
 **Faster R-CNN with Transfer Learning, Data Augmentation, and Performance Analysis**
 
 <p align="center">
-  <img src="Car-Detection-Remote-Sensing-Image.png" width="700">
+  <img src="Car-Detection-Remote-Sensing-Image.png" width="500">
 </p>
 
 This repository contains a **notebook-based implementation** for multi-class object detection in optical remote sensing images.  
